@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Planet gallery</string>
+    <string name="sunfact">The Sun is a star located at the center of our solar system. It is a massive ball of hot, glowing gases primarily composed of hydrogen and helium. The Sun\'s immense gravity holds the planets, including Earth, in their orbits.</string>
+    <string name="sun">SUN</string>
+    <string name="mercury">MERCURY</string>
+    <string name="venus">VENUS</string>
+    <string name="earth">EARTH</string>
+    <string name="mars">MARS</string>
+    <string name="jupiter">JUPITER</string>
+    <string name="saturn">SATURN</string>
+    <string name="uranus">URANUS</string>
+    <string name="neptune">NEPTUNE</string>
+    <string name="mercuryfact">Mercury is the closest planet to the Sun and is the smallest planet in our solar system. It has extreme temperature variations, with scorching hot days and freezing cold nights.</string>
+    <string name="venusfact"> Venus is often called Earth\'s "sister planet" due to its similar size and proximity. It has a thick atmosphere mainly composed of carbon dioxide, causing a runaway greenhouse effect and making it the hottest planet in our solar system.</string>
+    <string name="earthfact">Earth is the only known planet to support life. It has a diverse biosphere with a wide range of ecosystems and is the fifth-largest planet in our solar system.</string>
+    <string name="marsfact"> Mars is often called the "Red Planet" because of its reddish appearance. It has the tallest volcano in the solar system, Olympus Mons, and the longest canyon, Valles Marineris.</string>
+    <string name="jupiterfact">Jupiter is the largest planet in our solar system, known for its massive size and powerful magnetic field. It has a prominent feature called the Great Red Spot, a massive storm that has been raging for centuries.</string>
+    <string name="saturnfact">Saturn is famous for its stunning ring system, which is made up of icy particles and rocks. It is the second-largest planet and has the lowest density among all the planets.</string>
+    <string name="uranusfact"> Uranus is a unique planet because it rotates on its side, making it look like it rolls along its orbit. It has a pale blue color due to the presence of methane in its atmosphere.</string>
+    <string name="neptunefact"> Neptune is the farthest planet from the Sun and is often referred to as the "Blue Giant" due to its vivid blue color. It has the strongest winds in the solar system, reaching speeds of up to 1,500 miles per hour.</string>
+
+
+</resources>
